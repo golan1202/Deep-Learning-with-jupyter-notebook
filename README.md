@@ -12,7 +12,7 @@ Deep-Learning with jupyter notebook
 + [x] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 + [x] Structuring Machine Learning Projects
 + [x] Convolutional Neural Networks
-+ [x] Sequence Models
+
 
 # Deep Learning - deeplearning.ai
 Coursera Deep Learning Course by deeplearning.ai projects 
